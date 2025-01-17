@@ -1,2 +1,0 @@
-EMAIL:divyank;STATUS:non-vip;ORDERS:1:pending,3:pending
-EMAIL:chitss;STATUS:VIP;ORDERS:2:pending

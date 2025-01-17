@@ -1,3 +1,0 @@
-Order ID: 1, Status: pending, Total: 25.0, Items: {Samosa (Snacks) - ₹15.0 - Available=1, Tea (Beverage) - ₹10.0 - Available=1}
-Order ID: 2, Status: pending, Total: 40.0, Items: {Burger (Snacks) - ₹40.0 - Available=1}
-Order ID: 3, Status: pending, Total: 180.0, Items: {Pizza (Snacks) - ₹90.0 - Available=2}
